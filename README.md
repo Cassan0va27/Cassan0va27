@@ -1,8 +1,5 @@
 ### Greetings Stranger 👋
 
-<!--
-**Cassan0va27/Cassan0va27** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on -> Building a online learning platform.
