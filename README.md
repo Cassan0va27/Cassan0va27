@@ -1,5 +1,7 @@
 ### Greetings Stranger 👋
 
+  Hey I am Pushkar, full-stack developer looking.
+  
 - 🔭 I’m currently working on -> Building a online learning platform.
 - 🌱 I’m currently learning -> Node.JS, Express
 - 👯 I’m looking to collaborate on -> Open source projects based on Node.JS, Vanilla JS.
